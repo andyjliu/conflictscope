@@ -1,0 +1,14 @@
+anthropic==0.45.2
+choix==0.3.6
+matplotlib==3.10.0
+numpy==1.26.4
+openai==1.60.2
+pandas==2.2.3
+scikit-learn==1.6.1
+seaborn==0.13.2
+sentence-transformers==3.4.1
+statsmodels==0.14.4
+tqdm==4.67.1
+transformers==4.52.4
+vllm==0.9.1
+wandb==0.19.9
